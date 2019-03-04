@@ -1,1 +1,2 @@
-less /etc/passwd > /home/users.txt	
+#less /etc/passwd > /home/users.txt	
+less /etc/passwd
