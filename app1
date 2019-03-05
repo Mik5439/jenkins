@@ -1,2 +1,2 @@
-#less /etc/passwd > /home/users.txt	
-ls -la
+less /etc/passwd > /home/ubuntu/users.txt	
+
